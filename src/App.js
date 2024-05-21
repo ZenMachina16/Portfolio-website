@@ -15,6 +15,8 @@ import Footer from "./components/sections/Footer";
 import ProjectDetails from "./components/Dialog/ProjectDetails";
 import AnimatedCursor from "react-animated-cursor"; // Import AnimatedCursor
 import "./index.css"; // Import index.css
+import { Analytics } from "@vercel/analytics/react";
+
 
 
 const Body = styled.div`
@@ -70,7 +72,7 @@ function App() {
               )}
             </div>
           </AnimatePresence>
-         
+         <Analytics />
         </Body>
       </BrowserRouter>
     </ThemeProvider>
