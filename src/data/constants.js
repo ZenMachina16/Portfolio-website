@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "I am an enthusiastic individual, constantly seeking new challenges. Driven by a strong desire for learning, I am committed to delivering top-notch results. Possessing a positive attitude and a growth mindset, I am prepared to make a significant impact and accomplish remarkable feats.",
   github: "https://github.com/zenmachina16",
-  resume: "https://drive.google.com/file/d/1epOR2MOBGaxYCNhhLCrhQdcCeJlbpGfo/view",
+  resume: "https://drive.google.com/file/d/1epOR2MOBGaxYCNhhLCrhQdcCeJlbpGfo/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/binayak16/",
   twitter: "https://twitter.com/BinayakB_16",
   insta: "https://www.instagram.com/binayak_bhattacharjee_16/",
