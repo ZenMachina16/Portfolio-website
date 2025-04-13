@@ -182,7 +182,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/images-41b94.appspot.com/o/vesit.png?alt=media&token=69baa603-ad6b-42e5-bc2e-e1ba70320cea",
+    img: "https://firebasestorage.googleapis.com/v0/b/images-41b94.appspot.com/o/SMAK-Tech-Full-Logo-PNG-1-150x150.png?alt=media&token=651c39ec-60b0-4395-a0b7-d8956dbd0078",
     role: "SDE Intern",
     company: "SMAK Tech",
     date: "Nov 2024 - Feb 2025",
