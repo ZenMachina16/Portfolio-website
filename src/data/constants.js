@@ -106,6 +106,10 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+       {
+        name: "Supabase",
+        image: "https://logowik.com/content/uploads/images/supabase-icon1721342077.logowik.com.webp",
+      },
     ],
   },
   {
@@ -175,6 +179,15 @@ export const experiences = [
     date: "Feb 2024 - Present",
     desc: "Provided guidance and support to peers and juniors on academic syllabus and extracurricular opportunities, including courses and competitions. Fostered a collaborative learning environment and helped students navigate their educational paths effectively.",
     skills: ["Communication", "Advising", "Leadership", "Collaboration"],
+  },
+  {
+    id: 1,
+    img: "https://firebasestorage.googleapis.com/v0/b/images-41b94.appspot.com/o/vesit.png?alt=media&token=69baa603-ad6b-42e5-bc2e-e1ba70320cea",
+    role: "SDE Intern",
+    company: "SMAK Tech",
+    date: "Nov 2024 - Feb 2025",
+    desc: " Developed and integrated RESTful APIs to seamlessly connect the frontend with backend services and the database.Designed and implemented interactive frontend components using modern frameworks to enhance user experience. Established end-to-end system integration, ensuring smooth communication between the frontend, backend, and database.",
+    skills: ["RESTful API Development", "End-to-End System Architecture", "Typescript"],
   },
 ];
 
