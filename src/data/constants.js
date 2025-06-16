@@ -288,7 +288,7 @@ export const projects = [
     // webapp: "https://decisionhub.netlify.app/",
   },
    {
-    id: 4,
+    id: 5,
     title: "TraceCraft",
     date: "Dec 2024",
     description:
@@ -298,6 +298,58 @@ export const projects = [
     tags: ["Ethereum", "IPFS", "MERN Stack", "Truffle", "Ganache"],
     // category: "web app",
     github: "https://github.com/ZenMachina16/TraceCraft",
+    // webapp: "https://decisionhub.netlify.app/",
+  },
+  {
+    id: 6,
+    title: "LawLedger",
+    date: "Apr 2025",
+    description:
+      "Developed a Block chain-Based vault that leverages Ethereum smart contracts and the Interplanetary File System (IPFS) for secure, decentralized document storage and access control. Smart contracts ensure data integrity and authorized access, while IPFS provides resilient, content-addressable storage. ",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/images-41b94.appspot.com/o/Screenshot%202025-06-17%20014431.png?alt=media&token=f2b964a6-5c1b-4f59-9a05-8f4404301640",
+    tags: ["Ethereum", "IPFS", "MERN Stack", "Hardhat", "MongoDB"],
+    // category: "web app",
+    github: "https://github.com/ZenMachina16/Blockchain-Based-eVaultt",
+    // webapp: "https://decisionhub.netlify.app/",
+  },
+  {
+    id: 7,
+    title: "GameTherapy",
+    date: "Feb 2025",
+    description:
+      "GameTherapy is an interactive game-based therapy platform designed for individuals with cognitive and mental challenges. The platform includes diverse sensor-based games and integrated support systems to help patients improve their cognitive, motor, and social skills.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/images-41b94.appspot.com/o/Screenshot%202025-06-17%20014813.png?alt=media&token=8cf507dd-040a-4454-94db-9cc004a72752",
+    tags: ["MERN Stack", "Llama 3.5", "Arduino UNO", "Twilio", "Tensorflow"],
+    // category: "web app",
+    github: "https://github.com/ZenMachina16/Game-Therapy",
+    // webapp: "https://decisionhub.netlify.app/",
+  },
+  {
+    id: 8,
+    title: "FleetFlow",
+    date: "Mar 2025",
+    description:
+      "Developed an app that optimizes fleet routes for a logistics company using Brut Force TSP algorithms and Mapbox for navigation. It includes a Driver Portal for optimized routing and real-time navigation and a Manager Portal for product assignment, truck management, and live tracking. The system also ensures efficient load management to prevent overloading, improving route efficiency and reducing costs.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/images-41b94.appspot.com/o/Screenshot%202025-06-17%20024323.png?alt=media&token=380ffff7-5e2d-455f-ac66-ccf78e12abdf",
+    tags: ["Android Studio", "Supabase", "Flutter"],
+    // category: "web app",
+    github: "https://github.com/ZenMachina16/FleetFlow",
+    // webapp: "https://decisionhub.netlify.app/",
+  },
+  {
+    id: 9,
+    title: "Shrinkr",
+    date: "Jun 2025",
+    description:
+      "ShortLink is a full-stack URL shortener application with a Go backend and Next.js frontend. It allows users to create, manage, and track shortened URLs with a modern SaaS-like interface.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/images-41b94.appspot.com/o/Screenshot%202025-06-02%20222511.png?alt=media&token=3ebe81b5-129f-48a4-8645-8727068e3339",
+    tags: ["Go", "Next Js", "Typescript", "Redis", "Supabase"],
+    // category: "web app",
+    github: "https://github.com/ZenMachina16/URL-Shortener",
     // webapp: "https://decisionhub.netlify.app/",
   },
 ];
