@@ -279,12 +279,25 @@ export const projects = [
     title: "Railway Reservation System",
     date: "May 2024",
     description:
-      "eveloped a Railway Reservation System using Streamlit and SQLite, featuring functionalities to add, view, search, and delete trains, as well as book and cancel tickets. Users can also view available seats, ensuring a comprehensive and user-friendly railway management experience.",
+      "Developed a Railway Reservation System using Streamlit and SQLite, featuring functionalities to add, view, search, and delete trains, as well as book and cancel tickets. Users can also view available seats, ensuring a comprehensive and user-friendly railway management experience.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/images-41b94.appspot.com/o/Screenshot%202024-05-21%20234844.png?alt=media&token=7ddf7f75-a6ff-45be-a492-e1ae9019d8e5",
     tags: ["Python", "SQLite", "Streamlit"],
     // category: "web app",
     github: "https://github.com/ZenMachina16/Railway-Reservation-System",
+    // webapp: "https://decisionhub.netlify.app/",
+  },
+   {
+    id: 4,
+    title: "TraceCraft",
+    date: "Dec 2024",
+    description:
+      "Developed a Supply Chain Transparency Network harnesses the power of blockchain to ensure every step—from raw material sourcing to final delivery—is recorded immutably. Through real-time updates, QR-based tracking, and decentralized certification, stakeholders and consumers alike gain confidence in the authenticity and sustainability of the products they handle and purchase.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/images-41b94.appspot.com/o/Screenshot%202025-06-17%20013238.png?alt=media&token=89d2679b-84d5-4ecc-bcd9-375cb45f6bb3",
+    tags: ["Ethereum", "IPFS", "MERN Stack", "Truffle", "Ganache"],
+    // category: "web app",
+    github: "https://github.com/ZenMachina16/TraceCraft",
     // webapp: "https://decisionhub.netlify.app/",
   },
 ];
